@@ -20,6 +20,9 @@
             <li>
                 <a href="" class="nav-link"><i class="fas fa-database"></i><span>Master</span></a>
             </li>
+             <li>
+                <a href="" class="nav-link"><i class="fas fa-database"></i><span>Arsip Aktif</span></a>
+            </li>
         </ul>
     </aside>
 </div>
